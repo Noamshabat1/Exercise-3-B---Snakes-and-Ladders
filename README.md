@@ -33,7 +33,7 @@
   <h2 align="left" style="border-bottom: 1px solid gray">Media</h2>
 
   <div align="left">
-    <img src="./media/1.png" alt="Snakes and Ladders Screenshot" width="400px" />
+    <img src="./media/1.png" alt="Snakes and Ladders Screenshot" width="600px" />
   </div>
 </div>
 
